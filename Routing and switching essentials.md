@@ -8,7 +8,7 @@
 
 The table summarizes some of the more useful switch verification commands.
 
-| TaskIOS | Commands |
+| Task | IOS Commands |
 | ------ | ------- |
 | Display interface status and configuration. | S1# show interfaces [interface-id] |
 | Display current startup configuration. |S1# show startup-config|
