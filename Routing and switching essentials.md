@@ -10,7 +10,7 @@ S1#
 ```
 [deel1](#test)
 
-[deel2](#2. Switching Concepts)
+[deel2](#Switching Concepts)
 
 Subnetmask table
 | Prefix | Subnetmask |
@@ -242,7 +242,7 @@ Switch#
 
 
 
-### 2. Switching Concepts
+###Switching Concepts
 ### 3. VLANs
 ##### 3.3 VLAN Configuration
 This command gives a brief overview of all the Vlans and their ports
